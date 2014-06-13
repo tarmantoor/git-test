@@ -1,0 +1,678 @@
+200,200,Northern Territory
+800,801,Northern Territory
+804,804,Northern Territory
+810,813,Northern Territory
+815,815,Northern Territory
+820,822,Northern Territory
+828,832,Northern Territory
+834,841,Northern Territory
+845,847,Northern Territory
+850,854,Northern Territory
+860,862,Northern Territory
+870,872,Northern Territory
+880,881,Northern Territory
+885,886,Northern Territory
+909,909,Melbourne Metro
+1000,1000,Sydney Metro
+1125,1125,Sydney Metro
+1201,1201,Sydney Metro
+1215,1215,Sydney Metro
+1220,1220,Sydney Metro
+1225,1225,Sydney Metro
+1230,1230,Sydney Metro
+1235,1235,Sydney Metro
+1240,1240,Sydney Metro
+1300,1300,Sydney Metro
+1335,1335,Sydney Metro
+1340,1340,Sydney Metro
+1350,1350,Sydney Metro
+1355,1355,Sydney Metro
+1360,1360,Sydney Metro
+1363,1363,Sydney Metro
+1401,1401,Sydney Metro
+1420,1420,Sydney Metro
+1430,1430,Sydney Metro
+1435,1435,Sydney Metro
+1440,1440,Sydney Metro
+1445,1445,Sydney Metro
+1450,1450,Sydney Metro
+1455,1455,Sydney Metro
+1460,1460,Sydney Metro
+1465,1465,Sydney Metro
+1470,1470,Sydney Metro
+1475,1476,Sydney Metro
+1480,1481,Sydney Metro
+1484,1485,Sydney Metro
+1490,1490,Sydney Metro
+1495,1495,Sydney Metro
+1499,1499,Sydney Metro
+1515,1515,Sydney Metro
+1560,1560,Sydney Metro
+1565,1565,Sydney Metro
+1570,1570,Sydney Metro
+1585,1585,Sydney Metro
+1590,1590,Sydney Metro
+1595,1595,Sydney Metro
+1630,1630,Sydney Metro
+1635,1635,Sydney Metro
+1640,1640,Sydney Metro
+1655,1655,Sydney Metro
+1660,1660,Sydney Metro
+1670,1670,Sydney Metro
+1675,1675,Sydney Metro
+1680,1680,Sydney Metro
+1685,1685,Sydney Metro
+1700,1701,Sydney Metro
+1710,1710,Sydney Metro
+1715,1715,Sydney Metro
+1730,1730,Sydney Metro
+1750,1750,Sydney Metro
+1755,1755,Sydney Metro
+1765,1765,Sydney Metro
+1780,1781,Sydney Metro
+1790,1790,Sydney Metro
+1797,1797,Sydney Metro
+1800,1800,Sydney Metro
+1805,1805,Sydney Metro
+1811,1811,Sydney Metro
+1821,1821,Sydney Metro
+1825,1825,Sydney Metro
+1835,1835,Melbourne Metro
+1847,1847,Sydney Metro
+1851,1851,Sydney Metro
+1860,1860,Sydney Metro
+1871,1871,Sydney Metro
+1875,1875,Sydney Metro
+1885,1885,Sydney Metro
+1888,1888,Sydney Metro
+1890,1891,Sydney Metro
+1911,1911,NSW Country Inner
+2000,2002,Sydney Metro
+2005,2012,Sydney Metro
+2015,2050,Sydney Metro
+2052,2052,Sydney Metro
+2057,2057,Sydney Metro
+2059,2077,Sydney Metro
+2079,2097,Sydney Metro
+2099,2122,Sydney Metro
+2124,2148,Sydney Metro
+2150,2168,Sydney Metro
+2170,2179,Sydney Metro
+2190,2200,Sydney Metro
+2203,2214,Sydney Metro
+2216,2234,NSW Country Inner
+2250,2253,NSW Country Inner
+2255,2265,NSW Country Inner
+2267,2267,NSW Country Inner
+2278,2278,NSW Country Inner
+2280,2287,NSW Country Inner
+2289,2312,NSW Country Inner
+2314,2331,NSW Country Outer
+2333,2348,NSW Country Inner
+2350,2361,NSW Country Inner
+2365,2365,NSW Country Outer
+2369,2372,NSW Country Outer
+2379,2382,NSW Country Outer
+2386,2388,NSW Country Inner
+2390,2390,NSW Country Outer
+2395,2406,NSW Country Outer
+2408,2411,NSW Country Outer
+2415,2415,NSW Country Inner
+2420,2431,NSW Country Inner
+2439,2441,NSW Country Inner
+2443,2456,NSW Country Inner
+2460,2466,NSW Country Inner
+2469,2490,NSW Country Inner
+2500,2500,NSW Country Inner
+2502,2502,NSW Country Inner
+2505,2506,NSW Country Inner
+2508,2508,NSW Country Inner
+2515,2522,NSW Country Inner
+2525,2530,NSW Country Inner
+2533,2541,NSW Country Inner
+2545,2546,NSW Country Inner
+2548,2551,Sydney Metro
+2555,2560,Sydney Metro
+2563,2588,NSW Country Inner
+2590,2590,NSW Country Inner
+2594,2594,NSW Country Inner
+2600,2612,NSW Country Inner
+2614,2633,NSW Country Inner
+2640,2653,NSW Country Inner
+2655,2656,NSW Country Inner
+2658,2661,NSW Country Inner
+2663,2663,NSW Country Inner
+2665,2666,NSW Country Inner
+2668,2669,NSW Country Inner
+2671,2672,NSW Country Outer
+2675,2675,NSW Country Inner
+2678,2678,NSW Country Inner
+2680,2681,NSW Country Inner
+2700,2703,NSW Country Inner
+2705,2708,NSW Country Inner
+2710,2717,NSW Country Inner
+2720,2722,NSW Country Inner
+2725,2727,NSW Country Inner
+2729,2739,NSW Country Inner
+2745,2745,NSW Country Inner
+2747,2770,NSW Country Outer
+2773,2780,NSW Country Outer
+2782,2787,NSW Country Inner
+2790,2795,NSW Country Outer
+2797,2800,NSW Country Outer
+2803,2810,NSW Country Outer
+2818,2818,NSW Country Inner
+2820,2821,NSW Country Outer
+2823,2836,NSW Country Outer
+2838,2840,NSW Country Outer
+2842,2850,NSW Country Outer
+2852,2852,NSW Country Outer
+2864,2880,NSW Country Outer
+2883,2883,NSW Country Outer
+2890,2891,NSW Country Outer
+2898,2900,NSW Country Inner
+2902,2906,NSW Country Inner
+2911,2914,NSW Country Inner
+2999,3006,Melbourne Metro
+3008,3008,Melbourne Metro
+3010,3013,Melbourne Metro
+3015,3016,Melbourne Metro
+3018,3034,Melbourne Metro
+3036,3068,Melbourne Metro
+3070,3079,Melbourne Metro
+3081,3091,Melbourne Metro
+3093,3097,VIC Country
+3099,3099,Melbourne Metro
+3101,3111,Melbourne Metro
+3113,3116,Melbourne Metro
+3121,3156,Melbourne Metro
+3158,3202,Melbourne Metro
+3204,3207,VIC Country
+3211,3228,VIC Country
+3230,3243,VIC Country
+3249,3251,VIC Country
+3254,3254,VIC Country
+3260,3260,VIC Country
+3264,3287,VIC Country
+3289,3289,VIC Country
+3291,3294,VIC Country
+3300,3305,VIC Country
+3309,3312,VIC Country
+3314,3315,VIC Country
+3317,3319,VIC Country
+3321,3325,VIC Country
+3328,3335,VIC Country
+3337,3338,VIC Country
+3340,3342,VIC Country
+3345,3345,VIC Country
+3350,3357,VIC Country
+3360,3361,VIC Country
+3363,3364,VIC Country
+3370,3371,VIC Country
+3373,3375,VIC Country
+3377,3381,VIC Country
+3384,3385,VIC Country
+3387,3388,VIC Country
+3390,3393,VIC Country
+3395,3396,VIC Country
+3399,3402,VIC Country
+3407,3409,VIC Country
+3412,3415,VIC Country
+3418,3420,VIC Country
+3422,3424,VIC Country
+3427,3435,VIC Country
+3437,3438,VIC Country
+3440,3442,VIC Country
+3444,3444,VIC Country
+3446,3448,VIC Country
+3450,3451,VIC Country
+3453,3453,VIC Country
+3458,3458,VIC Country
+3460,3465,VIC Country
+3467,3469,VIC Country
+3472,3472,VIC Country
+3475,3475,VIC Country
+3477,3478,VIC Country
+3480,3480,VIC Country
+3482,3483,VIC Country
+3485,3485,VIC Country
+3487,3491,VIC Country
+3494,3494,VIC Country
+3496,3496,VIC Country
+3498,3498,VIC Country
+3500,3502,VIC Country
+3505,3507,VIC Country
+3509,3509,VIC Country
+3512,3512,VIC Country
+3515,3518,VIC Country
+3520,3523,VIC Country
+3525,3525,VIC Country
+3527,3527,VIC Country
+3529,3531,VIC Country
+3533,3533,VIC Country
+3537,3537,VIC Country
+3540,3540,VIC Country
+3542,3542,VIC Country
+3544,3544,VIC Country
+3546,3546,VIC Country
+3549,3552,VIC Country
+3554,3559,VIC Country
+3561,3568,VIC Country
+3570,3573,VIC Country
+3575,3576,VIC Country
+3578,3581,VIC Country
+3583,3586,VIC Country
+3588,3591,VIC Country
+3594,3597,VIC Country
+3599,3599,VIC Country
+3607,3608,VIC Country
+3610,3610,VIC Country
+3612,3612,VIC Country
+3614,3614,VIC Country
+3616,3618,VIC Country
+3620,3624,VIC Country
+3629,3641,VIC Country
+3644,3644,VIC Country
+3646,3647,VIC Country
+3649,3649,VIC Country
+3658,3660,VIC Country
+3662,3666,VIC Country
+3669,3673,VIC Country
+3675,3678,VIC Country
+3682,3683,VIC Country
+3685,3685,VIC Country
+3687,3691,NSW Country Inner
+3694,3695,VIC Country
+3697,3701,VIC Country
+3704,3705,VIC Country
+3707,3709,VIC Country
+3711,3715,VIC Country
+3717,3720,VIC Country
+3722,3723,VIC Country
+3725,3728,VIC Country
+3730,3730,VIC Country
+3732,3733,VIC Country
+3735,3735,VIC Country
+3737,3741,VIC Country
+3744,3744,VIC Country
+3746,3747,VIC Country
+3749,3767,VIC Country
+3770,3770,VIC Country
+3775,3775,Melbourne Metro
+3777,3779,VIC Country
+3781,3783,VIC Country
+3785,3789,VIC Country
+3791,3793,VIC Country
+3795,3797,VIC Country
+3799,3800,Melbourne Metro
+3802,3810,VIC Country
+3812,3816,VIC Country
+3818,3818,VIC Country
+3820,3825,VIC Country
+3831,3833,VIC Country
+3835,3835,VIC Country
+3840,3842,VIC Country
+3844,3844,VIC Country
+3847,3847,VIC Country
+3850,3854,VIC Country
+3856,3860,VIC Country
+3862,3862,VIC Country
+3864,3865,VIC Country
+3869,3871,VIC Country
+3873,3875,VIC Country
+3878,3878,VIC Country
+3880,3880,VIC Country
+3882,3882,VIC Country
+3885,3893,VIC Country
+3895,3896,VIC Country
+3898,3898,VIC Country
+3900,3900,VIC Country
+3902,3904,VIC Country
+3909,3913,VIC Country
+3915,3916,VIC Country
+3918,3923,VIC Country
+3925,3931,VIC Country
+3933,3946,VIC Country
+3950,3951,VIC Country
+3953,3954,VIC Country
+3956,3960,VIC Country
+3962,3962,VIC Country
+3964,3967,VIC Country
+3971,3971,Melbourne Metro
+3975,3981,VIC Country
+3984,3984,VIC Country
+3987,3992,VIC Country
+3995,3996,VIC Country
+3999,4015,Brisbane Metro
+4017,4022,Brisbane Metro
+4025,4025,Brisbane Metro
+4029,4032,Brisbane Metro
+4034,4037,Brisbane Metro
+4051,4055,Brisbane Metro
+4059,4061,Brisbane Metro
+4064,4070,Brisbane Metro
+4072,4078,Brisbane Metro
+4101,4125,Brisbane Metro
+4127,4133,Brisbane Metro
+4151,4161,Brisbane Metro
+4163,4165,Brisbane Metro
+4169,4174,Brisbane Metro
+4178,4179,QLD Country Inner
+4183,4184,Brisbane Metro
+4205,4230,QLD Country Inner
+4232,4232,QLD Country Inner
+4240,4240,QLD Country Inner
+4270,4272,QLD Country Inner
+4275,4275,QLD Country Inner
+4280,4281,QLD Country Inner
+4283,4283,QLD Country Inner
+4285,4285,QLD Country Inner
+4287,4287,Brisbane Metro
+4300,4301,Brisbane Metro
+4303,4307,QLD Country Inner
+4309,4315,QLD Country Inner
+4340,4347,QLD Country Inner
+4350,4350,QLD Country Inner
+4352,4365,QLD Country Inner
+4370,4378,NSW Country Outer
+4380,4385,QLD Country Inner
+4387,4388,QLD Country Inner
+4390,4390,QLD Country Inner
+4400,4408,QLD Country Inner
+4410,4428,QLD Country Outer
+4454,4455,QLD Country Outer
+4461,4462,QLD Country Outer
+4465,4465,QLD Country Outer
+4467,4468,QLD Country North
+4470,4472,QLD Country Outer
+4474,4482,QLD Country Outer
+4485,4498,Brisbane Metro
+4500,4521,QLD Country Inner
+4550,4575,QLD Country Inner
+4580,4581,QLD Country Inner
+4600,4601,QLD Country Inner
+4605,4608,QLD Country Inner
+4610,4615,QLD Country Inner
+4619,4621,QLD Country Inner
+4625,4630,QLD Country Inner
+4650,4650,QLD Country Inner
+4655,4655,QLD Country Inner
+4659,4660,QLD Country Inner
+4662,4662,QLD Country Inner
+4670,4674,QLD Country North
+4676,4680,QLD Country North
+4694,4695,QLD Country North
+4697,4697,QLD Country North
+4699,4707,QLD Country North
+4709,4728,QLD Country Outer
+4730,4733,QLD Country Outer
+4735,4747,QLD Country North
+4750,4751,QLD Country North
+4753,4754,QLD Country North
+4756,4757,QLD Country North
+4798,4825,QLD Country Outer
+4828,4831,QLD Country North
+4849,4850,QLD Country North
+4852,4852,QLD Country North
+4854,4861,QLD Country North
+4865,4865,QLD Country North
+4868,4888,QLD Country Outer
+4890,4892,QLD Country Outer
+4895,4895,QLD Country Outer
+4999,5001,Adelaide Metro
+5005,5025,Adelaide Metro
+5031,5035,Adelaide Metro
+5037,5052,Adelaide Metro
+5061,5076,Adelaide Metro
+5081,5098,Adelaide Metro
+5106,5118,SA Country
+5120,5121,Adelaide Metro
+5125,5127,SA Country
+5131,5134,SA Country
+5136,5142,SA Country
+5144,5144,SA Country
+5150,5174,SA Country
+5201,5204,SA Country
+5210,5214,SA Country
+5220,5223,SA Country
+5231,5238,SA Country
+5240,5246,SA Country
+5250,5256,SA Country
+5259,5273,SA Country
+5275,5280,SA Country
+5290,5291,SA Country
+5301,5304,SA Country
+5306,5312,SA Country
+5320,5322,SA Country
+5330,5333,SA Country
+5340,5346,SA Country
+5350,5357,SA Country
+5360,5360,SA Country
+5371,5375,SA Country
+5381,5381,SA Country
+5400,5401,SA Country
+5410,5422,SA Country
+5431,5434,SA Country
+5440,5440,SA Country
+5451,5455,SA Country
+5460,5462,SA Country
+5464,5464,SA Country
+5470,5473,SA Country
+5480,5485,SA Country
+5490,5491,SA Country
+5493,5493,SA Country
+5495,5495,SA Country
+5501,5502,SA Country
+5510,5510,SA Country
+5520,5523,SA Country
+5540,5540,SA Country
+5550,5550,SA Country
+5552,5552,SA Country
+5554,5556,SA Country
+5558,5558,SA Country
+5560,5560,SA Country
+5570,5573,SA Country
+5575,5577,SA Country
+5580,5583,SA Country
+5600,5610,SA Country
+5620,5620,SA Country
+5630,5633,SA Country
+5640,5642,SA Country
+5650,5655,SA Country
+5660,5661,SA Country
+5670,5671,SA Country
+5680,5680,SA Country
+5690,5690,SA Country
+5700,5701,SA Country
+5710,5710,SA Country
+5720,5720,SA Country
+5722,5725,SA Country
+5730,5734,Adelaide Metro
+5800,5800,Adelaide Metro
+5810,5810,Adelaide Metro
+5839,5839,SA Country
+5900,5900,Adelaide Metro
+5942,5942,Adelaide Metro
+5950,5950,Adelaide Metro
+5999,6001,Perth Metro
+6003,6012,Perth Metro
+6014,6038,Perth Metro
+6040,6044,Perth Metro
+6050,6074,Perth Metro
+6076,6078,Perth Metro
+6081,6085,Perth Metro
+6090,6090,Perth Metro
+6100,6112,WA Country Inner
+6121,6126,Perth Metro
+6147,6176,WA Country Inner
+6180,6182,WA Country Inner
+6201,6201,WA Country Inner
+6205,6205,WA Country Inner
+6207,6211,WA Country Inner
+6213,6215,WA Country Inner
+6218,6218,WA Country Inner
+6220,6221,WA Country Inner
+6223,6233,WA Country Inner
+6236,6237,WA Country Inner
+6239,6240,WA Country Inner
+6243,6244,WA Country Inner
+6251,6258,WA Country Inner
+6260,6260,WA Country Inner
+6262,6262,WA Country Inner
+6271,6271,WA Country Inner
+6275,6275,WA Country Inner
+6280,6282,WA Country Inner
+6284,6286,WA Country Inner
+6288,6288,WA Country Inner
+6290,6290,WA Country Inner
+6302,6302,WA Country Inner
+6304,6304,WA Country Inner
+6306,6306,WA Country Inner
+6308,6309,WA Country Inner
+6311,6313,WA Country Inner
+6315,6318,WA Country Inner
+6320,6324,WA Country Inner
+6326,6328,WA Country Inner
+6330,6333,WA Country Inner
+6335,6338,WA Country Inner
+6341,6341,WA Country Inner
+6343,6343,WA Country Outer
+6346,6346,WA Country Outer
+6348,6348,WA Country Inner
+6350,6353,WA Country Inner
+6355,6359,WA Country Inner
+6361,6361,WA Country Inner
+6363,6363,WA Country Inner
+6365,6365,WA Country Inner
+6367,6370,WA Country Inner
+6372,6373,WA Country Inner
+6375,6375,WA Country Inner
+6377,6377,WA Country Inner
+6383,6386,WA Country Inner
+6390,6398,WA Country Inner
+6401,6401,WA Country Inner
+6403,6403,WA Country Inner
+6405,6405,WA Country Inner
+6407,6407,WA Country Inner
+6409,6415,WA Country Inner
+6417,6443,WA Country Outer
+6445,6448,WA Country Outer
+6450,6450,WA Country Outer
+6452,6452,WA Country Inner
+6460,6468,WA Country Inner
+6470,6470,WA Country Inner
+6472,6473,WA Country Inner
+6475,6477,WA Country Inner
+6479,6480,WA Country Inner
+6484,6485,WA Country Inner
+6487,6490,WA Country Inner
+6501,6519,WA Country Inner
+6521,6522,WA Country Inner
+6525,6525,WA Country Inner
+6528,6528,WA Country Inner
+6530,6532,WA Country Outer
+6535,6537,WA Country Outer
+6555,6556,WA Country Inner
+6558,6558,WA Country Inner
+6560,6560,WA Country Inner
+6562,6562,WA Country Inner
+6564,6564,WA Country Inner
+6566,6569,WA Country Inner
+6571,6572,WA Country Inner
+6574,6575,WA Country Inner
+6603,6603,WA Country Inner
+6605,6606,WA Country Inner
+6608,6609,WA Country Inner
+6612,6614,WA Country Inner
+6616,6616,WA Country Inner
+6618,6618,WA Country Inner
+6620,6621,WA Country Inner
+6623,6623,WA Country Inner
+6625,6625,WA Country Inner
+6627,6628,WA Country Inner
+6630,6632,WA Country Outer
+6635,6635,WA Country Outer
+6638,6640,WA Country Inner
+6642,6642,WA Country Outer
+6646,6646,WA Country Outer
+6701,6701,WA Country Outer
+6705,6705,WA Country Outer
+6707,6707,WA Country Outer
+6710,6716,WA Country Outer
+6718,6718,WA Country Outer
+6720,6723,WA Country Outer
+6725,6728,WA Country Outer
+6731,6731,WA Country Outer
+6733,6733,WA Country Outer
+6740,6740,WA Country Outer
+6743,6743,WA Country Outer
+6751,6755,WA Country Outer
+6758,6758,WA Country Outer
+6760,6762,WA Country Outer
+6765,6765,WA Country Outer
+6770,6770,WA Country Outer
+6798,6799,Perth Metro
+6803,6803,Perth Metro
+6809,6809,Perth Metro
+6812,6812,Perth Metro
+6815,6815,Perth Metro
+6817,6817,Perth Metro
+6820,6820,Perth Metro
+6824,6834,Perth Metro
+6836,6842,Perth Metro
+6844,6851,Perth Metro
+6865,6865,Perth Metro
+6872,6873,Perth Metro
+6892,6893,Perth Metro
+6900,6907,Perth Metro
+6909,6927,Perth Metro
+6929,6929,Perth Metro
+6931,6940,Perth Metro
+6942,6947,Perth Metro
+6951,6971,Perth Metro
+6979,6992,Perth Metro
+6997,6997,WA Country Outer
+6999,7002,Tasmania
+7004,7012,Tasmania
+7015,7027,Tasmania
+7030,7030,Tasmania
+7050,7055,Tasmania
+7104,7104,Tasmania
+7109,7109,Tasmania
+7112,7113,Tasmania
+7116,7117,Tasmania
+7119,7120,Tasmania
+7139,7140,Tasmania
+7150,7151,Tasmania
+7155,7155,Tasmania
+7162,7163,Tasmania
+7170,7180,Tasmania
+7182,7187,Tasmania
+7190,7190,Tasmania
+7209,7216,Tasmania
+7248,7250,Tasmania
+7252,7265,Tasmania
+7267,7268,Tasmania
+7270,7270,Tasmania
+7275,7277,Tasmania
+7290,7292,Tasmania
+7300,7307,Tasmania
+7310,7310,Tasmania
+7315,7316,Tasmania
+7320,7322,Tasmania
+7325,7325,Tasmania
+7330,7331,Tasmania
+7466,7470,Tasmania
+7800,7800,Tasmania
+7802,7814,Tasmania
+7823,7824,Tasmania
+7827,7829,Tasmania
+7845,7845,Tasmania
+7901,7908,Tasmania
+7916,7923,Melbourne Metro
+8001,8004,Melbourne Metro
+8006,8008,Melbourne Metro
+8062,8062,Brisbane Metro
+9008,9008,QLD Country Inner
+9726,9726,QLD Country Inner
+9728,9729,Sydney Metro
